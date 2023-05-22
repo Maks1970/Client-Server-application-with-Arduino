@@ -1,0 +1,6 @@
+﻿  ARdu.cpp
+  Server_T.cpp
+E:\ClientServerT\Server\ServerTem\ServerTem\Server_T.cpp(214,39): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+E:\ClientServerT\Server\ServerTem\ServerTem\Server_T.cpp(223,96): warning C4244: аргумент: преобразование "std::streamsize" в "int", возможна потеря данных
+  Создание кода...
+  ServerTem.vcxproj -> E:\ClientServerT\Server\ServerTem\Debug\ServerTem.exe
